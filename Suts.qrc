@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>Rests.png</file>
+    <file>Shuts.png</file>
+    <file>sleep.png</file>
+  </qresource>
+</RCC>
